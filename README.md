@@ -1,3 +1,3 @@
-NBA-Championship-Ages
-=====================
-nba_ages.py scrapes NBA data from basketball-reference.com and applies statistical analysis to rank every NBA championship team in terms of their overall age. The script prints these rankings as a csv file. For more information, download and view findings.html.
+NBA-Youngest-Champions
+======================
+youngest.py scrapes data from basketball-reference.com and applies statistical analysis to determine which NBA teams were the "youngest" and "oldest" to win a championship. For more details, download findings.html.
